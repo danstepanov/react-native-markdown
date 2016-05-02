@@ -1,10 +1,10 @@
 {
-  "name": "react-native-markdown",
+  "name": "@danstepanov/react-native-markdown",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lwansbrough/react-native-markdown.git"
+    "url": "https://github.com/danstepanov/react-native-markdown"
   },
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A component for rendering Markdown in React Native",
   "main": "Markdown.js",
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
