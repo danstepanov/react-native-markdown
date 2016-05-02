@@ -8,11 +8,11 @@ A component for rendering Markdown in React Native. Pull requests welcome.
 
 ## Getting started
 
-1. `npm install react-native-markdown --save`
+1. `npm install --save @danstepanov/react-native-markdown`
 
 ## Usage
 
-All you need is to `require` the `react-native-markdown` module and then use the
+All you need is to `require` the `@danstepanov/react-native-markdown` module and then use the
 `<Markdown/>` tag.
 
 ```javascript
@@ -22,7 +22,7 @@ var {
   StyleSheet,
   View
 } = React;
-var Markdown = require('react-native-markdown');
+var Markdown = require('@danstepanov/react-native-markdown');
 
 var mdApp = React.createClass({
   render: function() {
